@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
 ## Welcome to this sample portfolio!
 
+Thanks for visiting, don't hesitate to look at my content 
+[dummy text](http://fillerama.io/) 
 
 #### Here are some example pages:
 
