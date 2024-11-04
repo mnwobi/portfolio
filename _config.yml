@@ -29,7 +29,7 @@ linkedin: www.linkedin.com/in/marius-nwobi
 github_username:  mnwobi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
